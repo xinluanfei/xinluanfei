@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xinluanfei
 - 👀 I’m interested in Deep Learning, Signal Processing.
 - 🌱 I’m currently learning NLP.
-- 💞️ I’m looking to collaborate on Speech Separation, Speech Enhancement
+- 💞️ I’m looking to collaborate on Speech Separation, Speech Enhancement.
 - 📫 How to reach me : 22231074@zju.edu.cn
